@@ -1,0 +1,3 @@
+Have you ever wondered what happens if you try to take an initial input promt, use it to generate an image, and have a model infer the caption of the image? It's a bit like the human game of telephone! 
+
+What happens if you do this whith prompts of varying information content, and for multiple iterations? What I expect to see is semantic decay on the part of the receiver - that is, over mutiple rounds of the above I expect the specificity of the initial prompt to be dulled until the image captions converge on a relatively uninformative image-caption pair. But, maybe I'm wrong! This experiment is to see what happens here.
